@@ -27,6 +27,7 @@ ___
   <img src='https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg' width="40" height="40"/>
   <img src='https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg' width="40" height="40"/>
   <img src='https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg' width="40" height="40"/>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg' width="40" height="40"/>
   <img src='https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg' width="40" height="40"/>
   <img src='https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg' width="40" height="40"/>
   <img src='https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg' width="40" height="40"/>
