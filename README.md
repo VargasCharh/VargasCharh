@@ -15,3 +15,8 @@ ___
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I engaged in photography and cinematography.
+___
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg'/>
+</div>
