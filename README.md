@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/muNcDSuINVr1e/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/muNcDSuINVr1e/giphy.gif"/>
 </div>
 
 <h1 align="center">Hi there, I'm Vargas 
