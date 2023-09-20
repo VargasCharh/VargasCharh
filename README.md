@@ -16,7 +16,7 @@ ___
 
 - :zap: In my free time, I engaged in photography and cinematography.
 ___
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Tools :
 <div>
   <img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' width="40" height="40"/>
   <img src='https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg' width="40" height="40"/>
